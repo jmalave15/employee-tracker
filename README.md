@@ -60,5 +60,8 @@ node index.js
 Then it will generate the following:
 
 
-https://github.com/jmalave15/employee-tracker/assets/120431488/f50bdaa4-8995-44d9-af0e-34d9c7637c74
+
+
+https://github.com/jmalave15/employee-tracker/assets/120431488/bf59a078-c491-40a3-b2a1-ff64a64b7a98
+
 
